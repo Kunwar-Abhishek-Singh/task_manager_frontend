@@ -37,7 +37,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 <p align="center">
   
-    <img src="/homepage.png" width="900" height="380" alt="homepage">
+    <img src="assets/homepage.png" width="900" height="380" alt="homepage">
  
 </p>
 
