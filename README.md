@@ -3,7 +3,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-## Getting Started
 
 To get started with this project, you'll need to install the required dependencies.
 
