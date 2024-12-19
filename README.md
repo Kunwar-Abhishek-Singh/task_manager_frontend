@@ -38,6 +38,18 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 <p>Homepage view</p>
  <img src="./assets/homepage.png" width="900" height="380" alt="homepage">
 
+ <p>Create Task view</p>
+ <img src="./assets/create_task_page.png" width="900" height="380" alt="create">
+
+ <p>Edit Task view</p>
+ <img src="./assets/edit_task_page.png" width="900" height="380" alt="edit">
+
+ <p>view task specifically</p>
+ <img src="./assets/view_task_page.png" width="900" height="380" alt="view">
+
+ <p>Dashboard view</p>
+ <img src="./assets/dashboard_page.png" width="900" height="380" alt="homepage">
+
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
