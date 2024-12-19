@@ -34,12 +34,7 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-<p align="center">
-  
-    <img src="./assets/homepage.png" width="900" height="380" alt="homepage">
- 
-</p>
+ <img src="./assets/homepage.png" width="900" height="380" alt="homepage">
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
